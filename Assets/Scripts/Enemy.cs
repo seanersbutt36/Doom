@@ -30,7 +30,7 @@ public class Enemy : MonoBehaviour
     {
         // Beginning of update set the animations rotational index
         spriteAnim.SetFloat("spriteRot", angleToPlayer.lastIndex);
-        Debug.Log(enemyAwareness.isAggro);
+        //Debug.Log(enemyAwareness.isAggro);
         if (enemyAwareness.isAggro)
         {
             spriteAnim.SetBool("Moving", true);

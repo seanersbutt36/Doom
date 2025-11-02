@@ -45,6 +45,7 @@ public class DamageTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            Debug.Log("Player");
             damagingPlayer = true;
         }
     }
