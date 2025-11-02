@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 54982e79146d6aa498106d948cfcf41a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f804825f31f05458f3715b0462e5fb
+      internalID: 1603197373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 208
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986968dffaaf029499d91757cbe6d107
+      internalID: 1613020211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 208
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e45f53fff3ce94f8751b8f0c77d4e4
+      internalID: 1838642375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 208
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396fc232d0466a4da92b0e0fa969d32
+      internalID: -988278530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe901b12614be49b88384121787ad8
+      internalID: 1921192645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 208
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d10af05bd76246a55ec456a0e3e69
+      internalID: -629692992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 208
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c42035d916ed438aeb3eff4d42aac
+      internalID: 1395263574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb4ba9a07b3eb4abe3e314d25870bf
+      internalID: 2085140539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 208
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a27f0bd85bc7418f4f68604d37aa1
+      internalID: 355889551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 208
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2da8ced3882d41ab9091f56431c11
+      internalID: 1222862905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 208
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e2159d43e19949a0d24b9431840fa
+      internalID: 1362978052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 208
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2032fea1f5e049f4c92acbee24a9500f
+      internalID: -2091035077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c224125c44d75a4ca92facd8efd90d9
+      internalID: -1522376625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 140
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51943cf782dd7469d138141ab43985
+      internalID: 1123085914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8298576bffa577b44b25c37e0bb28a2d
+      internalID: -1236214397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 140
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072caac4aecd5543ab83a8dff9ba726
+      internalID: 770806849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef176b38a2c7d4ea8780612f69f175
+      internalID: -1105389736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 140
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0416ee967bf6b4385123a228acf562
+      internalID: -2103888321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e393bd6f819a6479496a4e049f575f
+      internalID: -793572471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 140
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3ccdf9cc42bd4084d7eaab0c17cec
+      internalID: -1632026313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 140
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15ce11a34f8ccc48ac5da0d6fa52fe8
+      internalID: 1534374499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 140
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5b096e36a64a4eb36a3a1a8664573
+      internalID: -1842980812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 140
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602250631615ac49b9baf9aabc12aea
+      internalID: 942166740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 140
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6236327e02fda43a431e60cc0d22e6
+      internalID: -1217364839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 140
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639ed797cf30404a93240111388c5eb
+      internalID: -940793139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f1b883088f654ea75dcaea44cef4d
+      internalID: -45773552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5be730fb010c3438f2219e27f6597d
+      internalID: 285498007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 72
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4c0a94f185714e81f93cf407c8e18
+      internalID: 1367178324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03af844c39fdd4e4584c999141245ee1
+      internalID: -712830322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058a75e07cd9f241be55ef82ca18b13
+      internalID: -39725757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 72
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7ec43608275143abf920f0c5dfd76
+      internalID: 1975961480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 72
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa10c5a98f98b46a0f89d3dc63b5bc
+      internalID: 708802005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 72
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685609bde4d162d498a3b6fd3a35c10e
+      internalID: 669953366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b5b3f74f42ef54a812952e984ba935
+      internalID: 467934529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 72
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc38695d50456cf45bf72e9235a603b0
+      internalID: 1043120486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 72
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c24378b3fb68428a6d6ee99a95c69
+      internalID: 1155444801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 72
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652a948b3b76204bbe4aa1e013cbf8f
+      internalID: 1750142902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e660306fed2f0a4b8b8c2ea9d5f7b22
+      internalID: -248898214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78032e4e7bca546992cc27d8ee4ddf
+      internalID: -22095182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526d952e980e544bb350c43ab54fbb8
+      internalID: 1523913799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86885ea0c23d1d1419ebdc2ea4a1edb6
+      internalID: 1046142731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfbd96239cd1b3488d0e96c7bf48c2f
+      internalID: -1257609416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e10108d2415e479a36b0a0f87a381
+      internalID: -1333654644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfa2e0addbf7244b0b2e646efe33d4
+      internalID: 117945610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede54733acf31c4f8aa8668a6a7c5a9
+      internalID: -1009794857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5f3890c4b2704f82a1467a33c2d3f
+      internalID: 1311428457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a2fb3cd058c634886fd851f75141b5
+      internalID: -726345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Wars - Stormtrooper_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56b8907d61b4440af82a4a5fe41991
+      internalID: 740883059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f476cd9da9cc9e47b9f70f1a731c357
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Star Wars - Stormtrooper_0: 1603197373
+      Star Wars - Stormtrooper_1: 1613020211
+      Star Wars - Stormtrooper_10: 1362978052
+      Star Wars - Stormtrooper_11: -2091035077
+      Star Wars - Stormtrooper_12: -1522376625
+      Star Wars - Stormtrooper_13: 1123085914
+      Star Wars - Stormtrooper_14: -1236214397
+      Star Wars - Stormtrooper_15: 770806849
+      Star Wars - Stormtrooper_16: -1105389736
+      Star Wars - Stormtrooper_17: -2103888321
+      Star Wars - Stormtrooper_18: -793572471
+      Star Wars - Stormtrooper_19: -1632026313
+      Star Wars - Stormtrooper_2: 1838642375
+      Star Wars - Stormtrooper_20: 1534374499
+      Star Wars - Stormtrooper_21: -1842980812
+      Star Wars - Stormtrooper_22: 942166740
+      Star Wars - Stormtrooper_23: -1217364839
+      Star Wars - Stormtrooper_24: -940793139
+      Star Wars - Stormtrooper_25: -45773552
+      Star Wars - Stormtrooper_26: 285498007
+      Star Wars - Stormtrooper_27: 1367178324
+      Star Wars - Stormtrooper_28: -712830322
+      Star Wars - Stormtrooper_29: -39725757
+      Star Wars - Stormtrooper_3: -988278530
+      Star Wars - Stormtrooper_30: 1975961480
+      Star Wars - Stormtrooper_31: 708802005
+      Star Wars - Stormtrooper_32: 669953366
+      Star Wars - Stormtrooper_33: 467934529
+      Star Wars - Stormtrooper_34: 1043120486
+      Star Wars - Stormtrooper_35: 1155444801
+      Star Wars - Stormtrooper_36: 1750142902
+      Star Wars - Stormtrooper_37: -248898214
+      Star Wars - Stormtrooper_38: -22095182
+      Star Wars - Stormtrooper_39: 1523913799
+      Star Wars - Stormtrooper_4: 1921192645
+      Star Wars - Stormtrooper_40: 1046142731
+      Star Wars - Stormtrooper_41: -1257609416
+      Star Wars - Stormtrooper_42: -1333654644
+      Star Wars - Stormtrooper_43: 117945610
+      Star Wars - Stormtrooper_44: -1009794857
+      Star Wars - Stormtrooper_45: 1311428457
+      Star Wars - Stormtrooper_46: -726345306
+      Star Wars - Stormtrooper_47: 740883059
+      Star Wars - Stormtrooper_5: -629692992
+      Star Wars - Stormtrooper_6: 1395263574
+      Star Wars - Stormtrooper_7: 2085140539
+      Star Wars - Stormtrooper_8: 355889551
+      Star Wars - Stormtrooper_9: 1222862905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
