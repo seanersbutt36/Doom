@@ -1,8 +1,13 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Gun : MonoBehaviour
 {
+    public InputAction attackAction;
+
+    public Animator gunAnim;
+
     public float range = 20f;
     public float verticalRange = 20f;
     public float gunShotRadius = 20f;
@@ -14,7 +19,7 @@ public class Gun : MonoBehaviour
     private float nextTimeToFire;
 
     public int maxAmmo;
-    private int ammo;
+    [SerializeField] private int ammo;
 
     public LayerMask raycastLayerMask;
     public LayerMask enemyLayerMask;
@@ -25,6 +30,10 @@ public class Gun : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        attackAction = InputSystem.actions.FindAction("Attack");
+
+        nextTimeToFire = 0f;
+
         gunTrigger = GetComponent<BoxCollider>();
         gunTrigger.size = new Vector3(1, verticalRange, range);
         gunTrigger.center = new Vector3(0, 0, range * 0.5f);
@@ -35,9 +44,15 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && Time.time > nextTimeToFire && ammo > 0)
+        if (attackAction.IsPressed() && nextTimeToFire <= 0f && ammo > 0)
         {
+            PlayGunAnim();
             Fire();
+        }
+        else if(nextTimeToFire > 0f)
+        {
+            gunAnim.SetBool("Fire", false);
+            nextTimeToFire -= Time.deltaTime;
         }
     }
 
@@ -66,6 +81,7 @@ public class Gun : MonoBehaviour
             RaycastHit hit;
             if (Physics.Raycast(transform.position, dir, out hit, range * 1.5f, raycastLayerMask))
             {
+                Debug.Log("Hit: " + hit.collider.name);
                 if (hit.transform == enemy.transform)
                 {
                     // Range check
@@ -87,11 +103,16 @@ public class Gun : MonoBehaviour
         }
 
         // Reset timer
-        nextTimeToFire = Time.time + fireRate;
+        nextTimeToFire = fireRate;
 
         // Deduct ammo
         ammo--;
         UIManager.Instance.UpdateAmmo(ammo);
+    }
+
+    public void PlayGunAnim()
+    {
+        gunAnim.SetBool("Fire", true);
     }
 
     public void GiveAmmo(int amount, GameObject pickup)
